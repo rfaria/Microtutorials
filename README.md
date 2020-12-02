@@ -2,6 +2,6 @@
 
 ### Microtutorials about programming and related stuff 
 
-[Sparkline function in Google Sheets](./Google Sheets/sparkline)
+[Sparkline function in Google Sheets](https://github.com/rfaria/Microtutorials/blob/main/Google-Sheets/sparkline)
 
-[A way to measure elapsed time in Python](./Python/CounTime.py)
+[A way to measure elapsed time in Python](https://github.com/rfaria/Microtutorials/blob/main/Python/CountTime.py)
