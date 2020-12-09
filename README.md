@@ -9,3 +9,5 @@
 _**R**_ R: [Generating random numbers in R](https://github.com/rfaria/Microtutorials/blob/main/R/NumbersGenerator.r) (2020-12-04)
 
 _**JS**_ JavaScript: [Replacing part of a string in JavaScript](https://github.com/rfaria/Microtutorials/blob/main/JavaScript/replaceText.js) (2020-12-08)
+
+_**JS**_ JavaScript: [Using Plotly in JavaScript](https://github.com/rfaria/Microtutorials/blob/main/JavaScript/plot.js) (2020-12-09)
