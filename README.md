@@ -11,3 +11,5 @@ _**R**_ R: [Generating random numbers in R](https://github.com/rfaria/Microtutor
 _**JS**_ JavaScript: [Replacing part of a string in JavaScript](https://github.com/rfaria/Microtutorials/blob/main/JavaScript/replaceText.js) (2020-12-08)
 
 _**JS**_ JavaScript: [Using Plotly in JavaScript](https://github.com/rfaria/Microtutorials/blob/main/JavaScript/plot.js) (2020-12-09)
+
+🐍 Python: [Plotting normal values](https://github.com/rfaria/Microtutorials/blob/main/Python/plottingNormalValues.py) (2021-11-23)
